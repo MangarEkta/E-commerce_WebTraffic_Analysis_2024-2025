@@ -2,22 +2,10 @@
 
 This repository contains a comprehensive data analysis of web traffic patterns for an e-commerce platform over the period **2024–2025**. 
 
-The purpose of this analysis is to evaluate the performance of different web traffic channels, devices, and platforms for e-commerce business by understanding user engagement, conversion metric, and to identify areas for marketing.This analysis also aim to understand seasonal or time-
-based performance trends to derive meaningful insights.
-
----
-
 ## 📌 Project Objective
 
-The objective of this analysis:
-
-**Channel Performance:** Determine which traffic sources (Organic, Paid, Social, Email) yield the highest conversion rates.
-
-**Device Insights:** Analyze how user behavior differs between Mobile, Tablet, and Desktop users.
-
-**Engagement Metrics:** Evaluate Bounce Rates and Session Durations to identify friction in the user journey.
-
-**Seasonality:** Identify time-based trends to predict peak shopping periods.
+The purpose of this analysis is to evaluate the performance of different web traffic channels, devices, and platforms for e-commerce business by understanding user engagement, conversion metric, and to identify areas for marketing.This analysis also aim to understand seasonal or time-
+based performance trends to derive meaningful insights.
 
 This analysis is designed for stakeholders in digital marketing, product management, and business analytics teams.
 
@@ -72,23 +60,21 @@ The data spans the period January 2024 to October 2025 and includes 13 key varia
 
 ---
 
-## 🧠 Methodology
+## Data Limitations & Actionable Insights
 
-The analysis workflow includes:
+This analysis provides directional insights into performance across channels, devices, platforms, countries, and time periods, highlighting overall engagement and conversion trends.
 
-1. **Data Cleaning & Preprocessing:**  
-   - Handling missing and inconsistent values  
-   - Converting date/time fields to proper formats  
-   - Feature engineering such as session day, weekday, and session hour
+However, the dataset lacks key details such as customer-level identifiers, revenue metrics or order value information, campaign performance, and page-level behavior (e.g., bounce rate, pages per session). As a result, deeper evaluation of retention, marketing ROI, and causal drivers of conversions is limited.
 
-2. **Exploratory Data Analysis (EDA):**  
-   - Summary statistics  
-   - Visualization of temporal patterns  
-   - Breakdown by traffic sources and devices
+Despite these gaps, the data still supports actionable decisions to:
 
-3. **Insights and Recommendations:**  
-   - Highlighting actionable findings  
-   - Strategic recommendations based on user behavior and traffic dynamics
+* Improve traffic quality and conversion efficiency
+
+* Balance performance across devices and channels
+
+* Maintain consistent engagement over time
+
+* Investigate seasonal spikes and declines in user activity
 
 ---
 
